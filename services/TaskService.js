@@ -1,5 +1,5 @@
 import BaseService from './BaseService';
-import Task from '../models/task';
+import Task from '../models/Task';
 
 export default class TaskService extends BaseService {
     /**
